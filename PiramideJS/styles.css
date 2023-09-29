@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+
+}
+.title {
+  color:#ff4;
+}
+.footer {
+  position: fixed;
+  bottom: -1px;
+  
+}
